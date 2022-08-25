@@ -1,0 +1,54 @@
+Sản phẩm được chia làm 2 loại
+
++ Loại có thể chỉnh sửa.
+=> Cho phép người dùng chỉnh sửa, tạo các biến thể. (Khác size, Khác màu) 
+
++ Loại cơ bản.
+=> Những sản phẩm chỉ có một loại duy nhất.
+
+
+
+
+Quy trình.
+
+
+
+Thiết lập nhân nhiên + Nhóm quyền
+
+THiết lập page Type.
+
+
+
+
+Cấu hình các thanh diều hướng.
+Thiết lập website (Chắc cũng cần nghiên cứu)
+danh mục các plugin. (Cái này giống tính năng build In nhưng khi nào active mới hoạt động)
+
+
+1. Tạo kênh bán hàng.
+- Tiếng, Danh mục
+
+
+
+
+
+2. Tạo kho sản phẩm.
+=> Hình thức vận chuyển ? (Mảng này cần nghiên cứu thêm)
+
+=> Thuế (Mục này cũng cần nghiên cứu)
+
+
+
+
+
+
+3. Tạo khung sản phẩm.
+- Tạo các Atribute 
+- Tạo các Product Type => Gán các Artribute tương ứng cho sản phẩm.
+
+
+4. Tạo sản phẩm. 
+- Tên, loại sản phẩm, danh mục, bộ sưu tập
+- Đẩy ảnh
+- Cấu hình kênh bán hàng, số lượng hàng trong kho, giá bán ở từng kênh.
+
